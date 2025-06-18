@@ -1,3 +1,11 @@
+###Brainstorming
+- a*b mod c == ( a mod c * b mod c ) mod c 인 점 이용하기
+- L 이 **50이상**인 subtask를 만족 시키려면 $31^49$ mod 1234567891의 연산이 필요함
+  &rarr; `ull` 선언으로 오버플로우 방지
+- 소문자 &rarr; `int`로 변환할 때 `chr-'a'+1` 이용 :)
+
+
+```cpp
 #include <iostream>
 #include <string>
 #include <vector>
@@ -29,4 +37,5 @@ int main()
 
     cout << result % mod << "\n";
 }
+```
 
