@@ -2,7 +2,7 @@
 
 
 #### 태그
-[#Bottom-up DP](#Bottom-up_DP)
+[#Bottom-up DP](백준/동적계획법(DP)/Bottom-up DP.md)
 
 
 #### 오류
