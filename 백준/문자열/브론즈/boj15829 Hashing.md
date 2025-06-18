@@ -10,6 +10,7 @@
 2. `result += a` 형태로 값을들 쌓아나가야 하는데, 실수로 `result = a`로 하여 그냥 틀림 ㅇㅇ
 
 
+#### 완성 코드
 ```cpp
 #include <iostream>
 #include <string>
