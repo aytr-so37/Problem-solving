@@ -11,5 +11,6 @@
 
 ### 3. Relevant syntax ( C++ )
 - `unordered_map` &rarr; Key-Value 쌍 저장
+   : `python`의 `dictionary`와 동일
 - `unordered_set` &rarr; 중복 없는 원소 저장
 내부적으로 Hash를 사용하는 자료구조
