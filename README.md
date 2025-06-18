@@ -1,3 +1,5 @@
 # Problem-solving
 
-안녕 ㅎㅎ
+```cpp
+ios::sync_with_stdio(false);
+cin.tie(NULL);
