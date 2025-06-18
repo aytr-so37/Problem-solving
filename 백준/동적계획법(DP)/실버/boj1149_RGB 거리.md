@@ -2,7 +2,7 @@
 
 
 #### 태그
-[#Bottom-up DP](../ Bottom-up DP.md)
+[#Bottom-up DP](../Bottom-up_DP.md)
 
 #### 오류
 
