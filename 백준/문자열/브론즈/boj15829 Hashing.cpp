@@ -5,8 +5,6 @@
 using namespace std;
 using ull = unsigned long long;
 
-
-
 int main()
 {
     int r = 31;
