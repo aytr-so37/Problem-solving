@@ -2,8 +2,7 @@
 
 
 #### 태그
-[#Bottom-up DP]([백준/동적계획법(DP)/Bottom-up DP.md](https://github.com/aytr-so37/Problem-solving/blob/main/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(DP)/Bottom-up%20DP.md))
-
+[#Bottom-up DP](../Bottom_up DP.md)
 
 #### 오류
 
