@@ -1,8 +1,4 @@
 ## What is Hashing?
 
-```
-#include<iostream>
-using namespace std;
-int main(){
-  cout<<"hello";
-}
+- **Hashing**은 데이터를 **특정 규칙에 따라 고정된 크기의 값(해시값)**으로 변환하는 방식이다.
+
