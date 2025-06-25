@@ -21,4 +21,5 @@ cin.tie(NULL);
 - `boj 18870 (정렬, 좌표 압축 )`
 - `boj 10815 (맵 , 단순 unordered_set)`
 - `boj 14425 (맵 , 단순 unordered_set)`
+- `boj 13241 (최소공배수, 유클리드 호제법)`
 
