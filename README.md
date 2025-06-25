@@ -18,3 +18,4 @@ cin.tie(NULL);
 - 재귀 정리
 - `boj 11660 (누적합, DP)`
 - `boj 16953 (BFS , unordered_map)`
+- `boj 18870 (정렬, 좌표 압축 )`
