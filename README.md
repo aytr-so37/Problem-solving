@@ -19,5 +19,6 @@ cin.tie(NULL);
 - `boj 11660 (누적합, DP)`
 - `boj 16953 (BFS , unordered_map)`
 - `boj 18870 (정렬, 좌표 압축 )`
-- `boj 10815 (맵)
+- `boj 10815 (맵 , 단순 unordered_set)`
+- `boj 14425 (맵 , 단순 unordered_set)`
 
