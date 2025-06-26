@@ -1,12 +1,3 @@
-### Brainstorming
-- find 함수를 이용하여 시간 복잡도를 $O(1)$로
-  줄여주기 위하여 `unordered_set`이용
-- 한 쪽만 unordered_set를 이용하여 저장해두고 다른 쪽은 받는 즉시 find로 비교해서 처리하자
-- `<vector>`와 `<algorithm>`을 이용하여 sort로 사전 순 정렬 간편히
-
-
-#### 완성 코드
-```cpp
 #include <iostream>
 #include <string>
 #include <vector>
@@ -47,4 +38,3 @@ int main()
         cout << str << "\n";
     }
 }
-```
