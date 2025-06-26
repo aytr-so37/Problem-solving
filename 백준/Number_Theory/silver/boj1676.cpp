@@ -1,17 +1,3 @@
-### Brainstorming
-- `factorial`의 10의 약수의 개수와 같은 것을 깨닫고
--  $500$까지의 수의 소인수 2의 개수, 5의 개수를 각각 구하고
--  bottom-up DP를 구현하여 N!의 2의 개수, 5의 개수를 구한 뒤
--  둘 중 작은 걸 구해야겠다고 생각함
-
-#### 태그
-
-#### 오류 및 첨언
-- 생각해보니까 무조건 5의 개수가 적을 수 밖에 없고, min값이 5의 개수와 같다
-- 따라서, `pair<int,int>`가 아닌 그냥 `int`로 `bottom-up`만 구현하면 훨씬 효율적이다ㅠㅠ
-  
-#### 완성 코드
-```cpp
 #include <iostream>
 #include <utility>
 #include <vector>
@@ -58,4 +44,3 @@ pair<int, int> how25(int a) {
     }
     return temp;
 }
-```
