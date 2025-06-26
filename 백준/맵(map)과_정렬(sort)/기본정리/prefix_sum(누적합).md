@@ -5,7 +5,7 @@
 
 #### 2. implementation
 vector로 구현하면서 맨 앞 요소를 0을 집어넣어준다.
-&rarr; `1-based-index`로 올려주는 겸, $S[j]-S[i]$를 구현해줄 겸
+&rarr; `1-based-index`로 올려주는 겸, $S[j]-S[i-1]$를 구현해줄 겸
 
 ##### 단순 for문으로
 
