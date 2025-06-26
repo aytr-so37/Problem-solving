@@ -2,8 +2,7 @@
 
 ##### 빠른 입출력
 ```cpp
-ios::sync_with_stdio(false);
-cin.tie(NULL);
+ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 ```
 ##### 정리 template
 
