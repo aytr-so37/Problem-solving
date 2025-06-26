@@ -6,7 +6,6 @@ ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 ```
 ##### 미완성 구간
 - 재귀 정리
-- `boj 16953 (BFS , unordered_map)`
 - `boj 18870 (정렬, 좌표 압축 )`
 - `boj 10815 (맵 , 단순 unordered_set)`
 - `boj 14425 (맵 , 단순 unordered_set)`
