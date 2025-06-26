@@ -1,29 +1,3 @@
-### Brainstorming
-`특징`
-1. 2차원 배열에서 그 범위를 줬을 때 직사각형 합을 `return`
-2. 각 수는 **1000이하** 표 크기는 최대 `1024*1024` 이므로
-   최대 값은 $1000\times1024\times1024$ $<$ $2^{31}$ 이므로 `int`로 구현해도 된다.
-   (하지만 실제 구현할 때는 귀찮아서 `ull` 선언해줌)
-3. 입출력이 많은 수 있으니 **빠른 입출력 setting** 해주기 
-
-`생각`
-- **2차원 배열**을 만들어주고 각 행을 `prefix sum vector`로 해놓기
-- `prefix sum` 구현할 때 맨 앞 비워두는 거 유의하기 `1-based-index`
-- 그거만 하면 되겠넹 ㅎㅎ 끝~!
-      
-
-
-
-
-#### 태그
-[#누적합](../기본정리/prefix_sum.md)
-#### 오류 및 첨언
-- 처음에 구현할 때, `prefix sum vector`를 `0-based-index`로 구현하여
-  "**아 이런**" 함
-
-#### 완성 코드
-
-```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -62,4 +36,3 @@ ull prefix_sum(int x1, int y1, int x2, int y2, const vector<vector<int>>& graph)
     }
     return result;
 }
-```
