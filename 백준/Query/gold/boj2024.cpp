@@ -4,7 +4,7 @@ using namespace std;
 using ll = long long int;
 vector<int> tree;
 
-ll sum(ll, ll);Q
+ll sum(ll, ll);
 
 int main()
 {
